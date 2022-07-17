@@ -1,0 +1,72 @@
+nav.navbar {font-family: verdana; color: black;
+    justify-content: center;
+    width: 205.2vh;
+    background-color: #615656a9;
+}
+header{
+    background-color:rgba(196, 221, 172, 0.699);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 65vh;
+    width: 205.2vh;
+}
+.aside{height: 65vh;
+margin-top: 70px;
+}
+
+main{
+    background-color:#615656d0 ;
+    text-align: center;
+    font-family: helvetica;
+    width: 205.2vh;
+}
+.card{position: relative; 
+    width: 250px;
+    height: 350px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    border-color: black;
+   text-align: justify;
+    margin-right: 20px;
+}
+
+body{
+    background-color: rgba(149, 182, 118, 0.470);
+    min-height: 100vh;
+    max-width: 200vh;
+    color: black;
+    }
+
+h4{font-family: verdana;
+margin: 2px;
+margin-left: 20px;
+}
+.linea{
+    border-top: 2px solid rgb(6, 133, 184);
+  height: 2px;
+  padding: 0;
+  margin: 0px auto 0 auto;
+  margin-left: 20px;
+}
+.info{
+    margin-left: 20px;
+    text-align: justify;
+}
+.subtitulo{
+    margin-left: 20px;
+    font-size: 16pt;
+    color: black;
+}
+.lista{margin-left: 20px;
+text-align: justify;}
+
+.volver{text-align:center;
+margin-left: 570px}
+
+.redes{
+    text-align: center;
+}
+.fin{
+    text-align: center;
+}
